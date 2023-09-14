@@ -1,0 +1,25 @@
+{
+  "name": "cl.devcamp-js-footer",
+  "version": "0.1.0",
+  "description": "this module allows for a dynamic footer to be generated for JS applications with an updated year and name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beloca/CL.devcamp-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Cata Lobo <beloca_4@hotmail.com> (https://www.npmjs.com/settings/catalobo/packages)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beloca/CL.devcamp-js-footer/issues"
+  },
+  "homepage": "https://github.com/beloca/CL.devcamp-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
